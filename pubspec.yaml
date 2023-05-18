@@ -78,3 +78,8 @@ flutter:
     - family: KaTeX_Size4
       fonts:
         - asset: lib/katex_fonts/fonts/KaTeX_Size4-Regular.ttf
+    - family: KaTeX_Poppins
+      fonts:
+        - asset: lib/katex_fonts/fonts/KaTeX_Poppins-Regular.ttf
+       
+    

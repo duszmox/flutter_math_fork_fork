@@ -167,11 +167,14 @@ const texMathFontOptions = {
   '\\mathscr': FontOptions(fontFamily: 'Script'),
 
   '\\mathsf': FontOptions(fontFamily: 'SansSerif'),
+
+  '\\mathpp': FontOptions(fontFamily: 'Poppins'),
 };
 
 const texTextFontOptions = {
   '\\textrm': PartialFontOptions(fontFamily: 'Main'),
   '\\textsf': PartialFontOptions(fontFamily: 'SansSerif'),
+  '\\textpp': PartialFontOptions(fontFamily: 'Poppins'),
   '\\texttt': PartialFontOptions(fontFamily: 'Typewriter'),
   '\\textnormal': PartialFontOptions(fontFamily: 'Main'),
   '\\textbf': PartialFontOptions(fontWeight: FontWeight.bold),
